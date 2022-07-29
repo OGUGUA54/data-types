@@ -1,7 +1,11 @@
+let weather = "sunny";
 
-if (sunny){ 
-    console.log("carry an umbrella")}
-    if (rainy){ 
-        console.log("carry a rain coat")}
-        if (clearsky){ 
-            console.log("go out and have a nice day!")}
+if (weather === "sunny") {
+    console.log("carry an umbrella")
+}
+if (weather === "rainy") {
+    console.log("carry a rain coat")
+}
+if (weather === "clearsky") {
+    console.log("go out and have a nice day!")
+}

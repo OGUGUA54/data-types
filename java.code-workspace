@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\HTML TRAINING"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "data-types"
+	}
+}

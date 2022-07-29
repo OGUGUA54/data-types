@@ -8,4 +8,4 @@ if (weather === "rainy") {
 }
 if (weather === "clearsky") {
     console.log("go out and have a nice day!")
-}0
+}

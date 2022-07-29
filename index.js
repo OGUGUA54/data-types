@@ -49,3 +49,10 @@ console.log(personObject.age)
 console.log(personObject["name"])
 console.log(personObject["age"])
 console.log(personObject["job"])
+
+if (12){ 
+console.log("you're liable for codeville")}
+if(15){
+console.log("your'e elegible for codeville")}
+let age = 15
+if(false){console.log("blahblahblah")}

@@ -55,4 +55,4 @@ console.log("you're liable for codeville")}
 if(15){
 console.log("your'e elegible for codeville")}
 let age = 15
-if(false){console.log("blahblahblah")}
+if(false){console.log("anything")}
